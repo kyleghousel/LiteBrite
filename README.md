@@ -1,2 +1,2 @@
-# etchASketch
- Build an Etch a Sketch using JS and CSS Grid
+# The Odin Project etchASketch project
+ Build an Etch a Sketch using Vanilla JS and CSS Grid
